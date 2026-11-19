@@ -1,0 +1,18 @@
+# environments and caches
+.venv/
+.venv-hnet/
+__pycache__/
+
+# data, checkpoints and exports: rebuilt by the scripts or downloaded from the Hub
+data/
+eval_data/
+runs/
+export/
+
+# the official H-Net code is cloned here, see README
+repos/
+
+# experiment tracking and raw logs (cleaned copies live in results/logs)
+wandb/
+/*.log
+results/_*.out

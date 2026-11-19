@@ -1,0 +1,21 @@
+{
+  "ckpt": "export/bytegpt-hnet-100M",
+  "iter": 72799,
+  "results": {
+    "bpb/code_py": 1.5210393216707172,
+    "bpb/fineweb_val": 0.9131575808602026,
+    "bpb/wiki_en": 1.034093660723312,
+    "bpb/wiki_fr": 1.8646682710141385,
+    "hellaswag/acc_norm": 0.388,
+    "hellaswag/n": 1000,
+    "typo/clean_bpb": 0.8969549099036219,
+    "typo/corrupt_bpb": 1.1130591616505845,
+    "typo/ratio": 1.24093100930813
+  },
+  "samples": {
+    "The French Revolution began in": "The French Revolution began in 1789 as a protest against the monarchical control of government by the monarch. While it was the largest and most powerful revolution in history, it did not shatter the royal system as a whole. Even the revolutionaries who provoked it wanted to establish ",
+    "def fibonacci(n):\n": "def fibonacci(n):\nThe amount that the spanning tree expects\nto have at any given time, regardless of the interval.\nt (2)\nN = 10 − t √ n − t s, where t is the age of the neighboring tree\nand n is the age of each subsequent subsequent generation of the tree.\nFor example",
+    "Photosynthesis is the process by which": "Photosynthesis is the process by which plants obtain their energy from the sun's radiant energy. The process is made possible by photosynthesis (from which we get photons). The sun's rays reflect off the surface of the Earth thus forming the shading of the land and the vegetation. The photosyn",
+    "Once upon a time, in a quiet village,": "Once upon a time, in a quiet village, just before a harvest festival got underway, a man who took care of the children and taught them to read went to the church and asked to be comforted by his visitors. Unable to say what was apparently the son of God, and as he was reading from a book, and"
+  }
+}

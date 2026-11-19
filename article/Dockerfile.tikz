@@ -1,0 +1,6 @@
+# Small LaTeX image used only to compile the TikZ figures in figures/
+FROM python:3.12-slim
+RUN apt-get update && apt-get install -y --no-install-recommends \
+      texlive-latex-base texlive-pictures texlive-latex-extra texlive-fonts-recommended poppler-utils \
+    && rm -rf /var/lib/apt/lists/*
+WORKDIR /work

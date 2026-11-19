@@ -1,0 +1,16 @@
+# H-Net (hnet_train.py, chunk_viz.py, evaluate.py on the H-Net). Python 3.12.
+# A separate environment: mamba-ssm and flash-attn pin an older torch.
+# The H-Net code itself is cloned into repos/hnet, see README.
+--extra-index-url https://download.pytorch.org/whl/cu126
+torch==2.8.0
+numpy==2.5.4
+mamba-ssm==2.3.2.post1
+flash_attn==2.8.3.post2
+causal-conv1d==1.7.0
+einops==0.8.2
+optree==0.20.0
+regex
+tokenizers==0.23.3
+huggingface_hub==2.4.0
+safetensors==0.8.0
+wandb==0.31.0

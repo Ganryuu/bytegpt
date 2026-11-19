@@ -1,0 +1,21 @@
+{
+  "ckpt": "export/bytegpt-byte-85M",
+  "iter": 19999,
+  "results": {
+    "bpb/code_py": 1.3292556847769639,
+    "bpb/fineweb_val": 1.0362450615709067,
+    "bpb/wiki_en": 1.117575552362001,
+    "bpb/wiki_fr": 1.9440292621704434,
+    "hellaswag/acc_norm": 0.357,
+    "hellaswag/n": 1000,
+    "typo/clean_bpb": 1.0185271562795017,
+    "typo/corrupt_bpb": 1.2631626311250852,
+    "typo/ratio": 1.2401855201771872
+  },
+  "samples": {
+    "The French Revolution began in": "The French Revolution began in October 1778, when Comte d’Arthur had been a hero. The marriage of Comte d’Arthur formed a new government that was protected by the Population Convention Mechanism entered into between England and Wales on December 1778. At the same time, the remainin",
+    "def fibonacci(n):\n": "def fibonacci(n):\nshort that a structure\nThe number of structures that a reference set would include is\na definite value which cannot be output\nThe set of three outputs that are not affected by the number of structures in a structure but which are not affected\nThe reference",
+    "Photosynthesis is the process by which": "Photosynthesis is the process by which plants and animals live their energy for energy storage. Because plants and animals are independently controlled with only one percent of their energy and their relative sunlight function in space, the entire system of plants and animals is not restricted",
+    "Once upon a time, in a quiet village,": "Once upon a time, in a quiet village, these grand festivals had been marked by a road that had been cleared every day. Women who attended these festivals were rewarded with some kind of furniture.\nFurniture is a household type of transportation. In the United States there are approximately 36"
+  }
+}

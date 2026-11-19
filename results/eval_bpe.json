@@ -1,0 +1,21 @@
+{
+  "ckpt": "export/bytegpt-bpe32k-110M",
+  "iter": 24999,
+  "results": {
+    "bpb/code_py": 1.3818637955007118,
+    "bpb/fineweb_val": 0.9217643637751308,
+    "bpb/wiki_en": 0.9879010692676005,
+    "bpb/wiki_fr": 1.8361022156556492,
+    "hellaswag/acc_norm": 0.387,
+    "hellaswag/n": 1000,
+    "typo/clean_bpb": 0.9044905590162629,
+    "typo/corrupt_bpb": 1.158097111530069,
+    "typo/ratio": 1.280386069247237
+  },
+  "samples": {
+    "The French Revolution began in": "The French Revolution began in 1789, during the reign of Louis XVI, who was the first of the Eighteenth Century king's representatives. The republic, which was led by a king who also had two or three monarchs, failed once the monarchy was established. However, the French government was able to maintain a good international level of security, and the",
+    "def fibonacci(n):\n": "def fibonacci(n):\nn : an integer between 0 and 255 that has a positive decimal value\na : a positive number\nb : b positive number; the base\na is a positive integer, a positive nonnegative integer, b positive whole number, and negative whole number\nA = a + b, b − a, a,",
+    "Photosynthesis is the process by which": "Photosynthesis is the process by which plants and algae use sunlight to obtain energy from the sun's energy. Photosynthesis is the process by which plants and algae use sunlight to produce energy. The process is done by taking a substance or energy from the sun and combining it with oxygen to form water and carbon dioxide. The result is a complex molecule, such as",
+    "Once upon a time, in a quiet village,": "Once upon a time, in a quiet village, a couple of boys sat and went to sleep. There he found a little girl, who was a little girl, and the little girl had been there for years. So there she was, and then the little girl appeared.\nAnd another few days later they sat together. Then he put his foot on the little girl"
+  }
+}

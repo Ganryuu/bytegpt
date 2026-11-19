@@ -1,0 +1,26 @@
+=== bytes per chunk by domain ===
+code_py        N = 1.82
+fineweb_val    N = 3.87
+wiki_en        N = 3.44
+wiki_fr        N = 2.33
+
+=== chunk boundaries ('|' = a new chunk starts here) ===
+
+[N = 3.95]
+|The| |Fre|nch| |Re|v|olution| be|gan| in| 1789| and| ra|dically| trans|formed| the| country|'s| government|.
+
+[N = 4.09]
+|P|h|otosy|nthesis| is| the| process| by| which| gre|en| plants| con|vert| su|n|light| into| ch|emical| energy|.
+
+[N = 1.66]
+def| fi|b|on|a|cci|(n|)|:|
+| | | | if| n| |<| 2|:|
+| | | | | | | | re|turn| n|
+| | | | re|turn| fi|b|on|a|cci|(n| |-| 1|)| |+| fi|b|on|a|cci|(n| |-| 2|)|
+
+
+[N = 2.71]
+|L|a| |R|�|�|v|olution| fr|an|çaise| commen|ce| en| 1789| e|t| trans|forme| prof|o|nd|�|�|ment| la| soci|�|�t|é|.
+
+[N = 2.17]
+|Te|h| q|i|u|c|k| bo|r|w|n| fo|x| |ju|m|s|p| ov|r|e| the| l|z|a|y| do|g,| un|believably| and| i|rr|esponsibly|.

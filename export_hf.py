@@ -89,7 +89,8 @@ def main():
             api = HfApi()
             repo = f"{args.user}/{spec['name']}"
             api.create_repo(repo, repo_type="model", exist_ok=True)
-            api.upload_folder(repo_id=repo, repo_type="model", folder_path=out_dir)
+            api.upload_folder(repo_id=repo, repo_type="model", folder_path=out_dir,
+                              ignore_patterns=["__pycache__/*"])
             print(f"uploaded: https://huggingface.co/{repo}")
 
 
